@@ -1,0 +1,10 @@
+{
+  "status": "online",
+  "latest_version": "2026.1-BETA",
+  "download_url": "https://t.me/IBRA_GSM",
+  "maintenance_message": "Server is under maintenance. Please check our Telegram channel @IBRA_GSM.",
+  "announcement": "Welcome to IBRA-GSM PRO Beta!",
+  "allowed_hwids": [
+    "ALL"
+  ]
+}
