@@ -1,5 +1,6 @@
 {
   "version": "2026.2",
   "changelog": "New drivers added & bug fixes.",
-  "download_url": "https://github.com/desableknox/ibra-gsm-server/releases/download/v2.0/IBRA_GSM_PRO_v2.exe"
+  "download_url": "https://github.com/desableknox/ibra-gsm-server/releases/download/v2.0/IBRA_GSM_PRO_v2.exe",
+  "drivers_pack_url": "https://github.com/desableknox/ibra-gsm-server/releases/download/v2.0/drivers_pack.zip"
 }
